@@ -2,7 +2,7 @@
 - 👀 I’m interested in animation, nihongo, anime.
 - 🌱 I’m currently learning nihongo.
 - 💞️ I’m looking to collaborate on doing data entry work.
-- 📫 How to reach me ...
+- 📫 How to reach me through twitter @katnissious
 
 <!---
 Honeymeme58/Honeymeme58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
